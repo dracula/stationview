@@ -1,0 +1,42 @@
+{
+  "name": "Dracula",
+  "application": "StationView",
+  "applicationUrl": "https://stationview.app",
+  "shareCode": "sv-theme:1:board-bg=282a36&board-amber=8be9fd&board-header=bd93f9&board-header-text=f8f8f2&board-bar=ff5555&chrome-panel-bg=44475a&control-accent=ff79c6",
+  "colors": {
+    "board-bg": {
+      "hex": "#282A36",
+      "draculaToken": "Background"
+    },
+    "board-amber": {
+      "hex": "#8BE9FD",
+      "draculaToken": "Cyan",
+      "stationviewRole": "Departure board text and accents"
+    },
+    "board-header": {
+      "hex": "#BD93F9",
+      "draculaToken": "Purple",
+      "stationviewRole": "Station header bar"
+    },
+    "board-header-text": {
+      "hex": "#F8F8F2",
+      "draculaToken": "Foreground",
+      "stationviewRole": "Header text"
+    },
+    "board-bar": {
+      "hex": "#FF5555",
+      "draculaToken": "Red",
+      "stationviewRole": "Alert and cancellation bar"
+    },
+    "chrome-panel-bg": {
+      "hex": "#44475A",
+      "draculaToken": "Selection",
+      "stationviewRole": "Settings and panel backgrounds"
+    },
+    "control-accent": {
+      "hex": "#FF79C6",
+      "draculaToken": "Pink",
+      "stationviewRole": "Buttons and focus rings"
+    }
+  }
+}
